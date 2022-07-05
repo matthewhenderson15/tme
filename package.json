@@ -1,0 +1,23 @@
+{
+  "name": "tme",
+  "version": "1.0.0",
+  "description": "JS testing framework from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewhenderson15/tme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "tme": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/matthewhenderson15/tme/issues"
+  },
+  "homepage": "https://github.com/matthewhenderson15/tme#readme"
+}
