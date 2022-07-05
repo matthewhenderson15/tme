@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/matthewhenderson15/tme#readme",
   "dependencies": {
+    "chalk": "^3.0.0",
     "mocha": "^10.0.0"
   }
 }
